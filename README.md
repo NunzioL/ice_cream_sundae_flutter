@@ -1,4 +1,4 @@
-# ice_cream_ui
+# ice_cream_sundae_flutter
 
 This project includes an ordering and logging system.
 
